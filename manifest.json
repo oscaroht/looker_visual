@@ -16,9 +16,9 @@
             "iconUrl": "https://raw.githubusercontent.com/googledatastudio/community-visualizations/master/docs/codelab/img/table-chart.png",
             "description": "A simple table chart.",
             "resource": {
-                "js": "gs://looker_custom_viz_plukon/hierarchy_tree/viz-codelab.js",
-                "config": "gs://looker_custom_viz_plukon/hierarchy_tree/viz-codelab.json",
-                "css": "gs://looker_custom_viz_plukon/hierarchy_tree/viz-codelab.css"
+                "js": "https://raw.githubusercontent.com/oscaroht/looker_visual/refs/heads/main/viz-codelab.js",
+                "config": "https://raw.githubusercontent.com/oscaroht/looker_visual/refs/heads/main/viz-codelab.json",
+                "css": "https://raw.githubusercontent.com/oscaroht/looker_visual/refs/heads/main/viz-codelab.css"
             }
         }
     ]
